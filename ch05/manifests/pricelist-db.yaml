@@ -28,6 +28,8 @@ spec:
           value: pricelist
         - name: MYSQL_PASSWORD
           value: pricelist
+        - name: MYSQL_ROOT_PASSWORD
+          value: pricelist
         - name: MYSQL_USER
           value: pricelist
         volumeMounts:
